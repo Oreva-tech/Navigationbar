@@ -1,0 +1,35 @@
+.navigationbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 10vh;
+    background-color: aqua;
+
+}
+.right{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+
+.avatar{
+    width: 3.5em;
+    height: 3.5em;
+    border-radius: 50%;
+    overflow: hidden;
+}
+
+.avatar img{
+    width: 100%;
+    height: 100%;
+}
+.connect{
+    display: flex;
+    align-items: center;
+    gap: 12px;
+}
+.ab{
+    text-decoration: none; 
+
+}
