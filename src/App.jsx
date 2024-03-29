@@ -8,6 +8,7 @@ import Contact from './Components/Contact'
 import Settings from './Components/Settings'
 import Home from './Components/Home'
 import Button from './Components/Button'
+import Form from './Components/Form'
 
 
 function App() {
@@ -33,6 +34,8 @@ function App() {
     
     
     </BrowserRouter>
+
+    <Form/>
      
       
      
